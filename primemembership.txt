@@ -1,0 +1,8 @@
+
+Name	Type	Since	Current stake
+Myntra	Fashion	2014	100%[90]
+Ekart	Logistics	2015	[91]
+PhonePe	Financial technology	2016	87%[92]
+Flipkart Wholesale	B2B e-commerce	2020	100%[93]
+Cleartrip	Travel booking	2021	80%[94]
+SastaSundar	Healthcare	2021	75.1%[95]
